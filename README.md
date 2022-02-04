@@ -8,5 +8,5 @@
 ### Key Skills
 
 - Language : Typescript, Javascript
-- Frontend : ReactJS, Redux Toolkit, React Query
+- Frontend : ReactJS, Redux Toolkit, React Query, Material UI
 - Backend : NextJS, MongoDB
